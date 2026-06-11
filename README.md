@@ -20,13 +20,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:3b82f6&height=60&section=header&text=connect%20with%20me&fontColor=ffffff&fontSize=28"/>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:markcerna07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/eivydd_/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48"/>
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/snybuun">
     <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
 </p>
