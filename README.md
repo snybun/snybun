@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=echo+'Hello+World!';Full-Stack+Developer;Web+and+Mobile+Developer;Building+Ideas+Into+Reality" />
 </p>
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mysql,postgres,python,angular" />
