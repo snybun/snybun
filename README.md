@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://i.imgur.com/WA46PrR.jpeg" width="100%" />
+  <img src="https://i.imgur.com/WA46PrR.jpeg" width="60%"/>
 </p>
 
 <h1 align="center">hey, i'm snybun 👋</h1>
