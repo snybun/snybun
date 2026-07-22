@@ -59,9 +59,3 @@ focus     :: web dev & networking
 </p>
 
 ---
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=120&section=footer"/>
-
-</p>
