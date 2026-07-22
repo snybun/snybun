@@ -4,10 +4,10 @@
   <img src="https://i.imgur.com/WA46PrR.jpeg" width="60%"/>
 </p>
 
-<h1 align="center">hey, i'm snybun 👋</h1>
+<h1 align="center">hey, i'm mark </h1>
 
 <p align="center">
-full-stack developer • web designer • student
+full-stack developer • ui/ux designer • student
 </p>
 
 ---
