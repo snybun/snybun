@@ -32,13 +32,20 @@ focus     :: web dev & networking
 
 ## tech i use
 
+### frontend & design
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mysql,postgres,python,angular,docker,flutter&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,figma&theme=dark" />
 </p>
 
----
+### backend & database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,mysql,postgres,supabase&theme=dark" />
+</p>
+
+### devops & deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vite,vercel&theme=dark" />
+</p>
 
 ## connect
 
