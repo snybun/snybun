@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://i.imgur.com/WA46PrR.jpeg" width="60%"/>
 </p>
@@ -23,7 +21,7 @@ role      :: tech support and qa @ guanzon
 focus     :: web dev & networking
 ```
 
--  currently learning **React Native**
+-  currently learning **React Native** and **Node.js** 
 -  building web applications/random systems
 -  making clean and modern UIs when bored
 -  i luv networking :p
