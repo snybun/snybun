@@ -22,8 +22,8 @@ focus     :: web dev & networking
 ```
 
 -  currently learning **React Native** and **Node.js** 
--  building web applications/random systems
--  making clean and modern UIs when bored
+-  currently sophomore student @ phinma university of pangasinan
+-  open for freelance work :D
 -  i luv networking even it ruins me:p
 
 ---
