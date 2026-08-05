@@ -21,7 +21,7 @@ role      :: tech support and qa @ guanzon
 focus     :: web dev & networking
 ```
 
--  currently learning **React Native** and **Node.js** 
+-  currently learning **react native** and **php** 
 -  currently sophomore student @ **phinma university of pangasinan**
 -  open for freelance work :D
 -  i luv networking even it ruins me:p
