@@ -24,7 +24,7 @@ focus     :: web dev & networking
 -  currently learning **React Native** and **Node.js** 
 -  building web applications/random systems
 -  making clean and modern UIs when bored
--  i luv networking :p
+-  i luv networking even it ruins me:p
 
 ---
 
