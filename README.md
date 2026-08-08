@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://markcerna.vercel.app/">
-    <img src="./assets/portfolio-banner.png" width="100%" alt="Portfolio"/>
+    <img src="Screenshot 2026-08-08 123202.png" width="80%" alt="Portfolio"/>
   </a>
 </p>
 
