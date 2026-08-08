@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/WA46PrR.jpeg" width="60%"/>
+  <a href="https://markcerna.vercel.app/">
+    <img src="./assets/portfolio-banner.png" width="100%" alt="Portfolio"/>
+  </a>
 </p>
 
 <h1 align="center">hey, i'm mark </h1>
