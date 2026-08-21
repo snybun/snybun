@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">hey, i'm mark </h1>
+<h1 align="center">hey, i'm mark cerna</h1>
 
 <p align="center">
 full-stack developer • ui/ux designer • student
